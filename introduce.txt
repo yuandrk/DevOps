@@ -1,1 +1,2 @@
 This text for a beginning commit.
+Check function pull on Git
