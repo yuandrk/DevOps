@@ -1,2 +1,5 @@
 This text for a beginning commit.
-Check function pull on Git
+Check function pull on Git.
+
+Next step is check git GUI
+Before i did't know about this.
