@@ -13,8 +13,6 @@ read -p "Where is file":file
 file=/var/users.csv
 oldIFS=$IFS
 
-
-
 #Functions
 check_user() {
 i=1
