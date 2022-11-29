@@ -6,7 +6,6 @@
 if [ "$(id -u )" != 0 ]
 then 
 	echo Root permissions required >&2
-	echo "Потрібні права рута!"
 	exit 1
 fi
 
