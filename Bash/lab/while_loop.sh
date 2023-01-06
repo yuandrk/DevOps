@@ -1,6 +1,5 @@
 #!/bin/bash 
 
-
 file=/etc/passwd
 
 while IFS= read -r line; do 
