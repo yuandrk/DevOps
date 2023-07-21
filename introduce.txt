@@ -1,4 +1,5 @@
 This text for a beginning commit.
+The a new one 
 Check function pull on Git.
 
 Next step is check git GUI
